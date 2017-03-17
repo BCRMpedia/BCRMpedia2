@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586161019269",
+    "firebase_url": "https://bcrmpedia-198c7.firebaseio.com",
+    "project_id": "bcrmpedia-198c7",
+    "storage_bucket": "bcrmpedia-198c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586161019269:android:c58bad5906673cad",
+        "android_client_info": {
+          "package_name": "com.example.ilsas.bcrmpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586161019269-214io1obk7blakvirnav2bnt158cv4ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1SV7roLff9lZEOhMZl1SVln7skgzNjY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
